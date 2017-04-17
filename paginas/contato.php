@@ -46,14 +46,13 @@
 			<h2 class="featurette-heading">Endereço.</h2>
 			<p class="lead">
 				<address>
-					<strong>Celke.</strong><br>
-					Av. Republica Argentina, 5550 - Capão Raso<br>
-					CEP 81050-001 - Curitiba / PR<br>
-					<abbr title="Phone">P:</abbr> (41) 3503-6170
+					<strong>Web - Marcelo Navarro.</strong><br>
+					<br>
+					<abbr title="Phone">P:</abbr> (11) 9577-94046
 				</address>
 				<address>
-					<strong>Cesar</strong><br>
-					<a href="mailto:#">cesar@celke.com.br</a>
+					<strong>Marcelo</strong><br>
+					<a href="mailto:#">marcelonavarro@outlook.com.br</a>
 				</address>
 			</p>
 		</div>
